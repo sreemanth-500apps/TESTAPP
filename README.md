@@ -25,3 +25,4 @@ Update
 mmmmmmmm
 
 
+# Replace this pdfjs-dist folder to /node_modules/pdfjs-dist
